@@ -1,0 +1,2 @@
+# 强制 LICENSE 以 LF 换行存储，确保 GitHub 能正确识别许可类型
+LICENSE text eol=lf
