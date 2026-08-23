@@ -1,0 +1,7 @@
+[
+  {"emp_id": "E1001", "annual_leave": 10, "annual_leave_used": 3, "overtime_leave": 2, "sick_leave": 0},
+  {"emp_id": "E1002", "annual_leave": 12, "annual_leave_used": 5, "overtime_leave": 1, "sick_leave": 2},
+  {"emp_id": "E1003", "annual_leave": 5, "annual_leave_used": 1, "overtime_leave": 0, "sick_leave": 0},
+  {"emp_id": "E1004", "annual_leave": 15, "annual_leave_used": 8, "overtime_leave": 4, "sick_leave": 1},
+  {"emp_id": "E1005", "annual_leave": 15, "annual_leave_used": 6, "overtime_leave": 3, "sick_leave": 0}
+]

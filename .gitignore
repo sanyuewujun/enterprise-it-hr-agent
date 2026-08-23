@@ -1,0 +1,32 @@
+# ===== 环境与密钥（严禁上传） =====
+.env
+.env.*
+!.env.example
+.venv
+venv/
+
+# ===== Python 缓存 / 测试产物 =====
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ===== 本地数据（向量库、会话历史、Mock 生成物） =====
+src/data/chroma/*
+!src/data/chroma/.gitkeep
+src/data/mock/.generated
+src/data/history/*
+
+# ===== 前端依赖与构建产物 =====
+web/node_modules/
+web/dist/
+
+# ===== 日志（可能含运行信息，勿上传） =====
+*.log
+uvicorn.*
+build.err
+build.log
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+.DS_Store

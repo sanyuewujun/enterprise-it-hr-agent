@@ -1,0 +1,52 @@
+[
+  {
+    "emp_id": "E1001",
+    "name": "张伟",
+    "department": "技术部",
+    "title": "高级后端工程师",
+    "email": "zhangwei@corp.example.com",
+    "phone": "13800001001",
+    "manager": "E1004",
+    "hire_date": "2021-03-15"
+  },
+  {
+    "emp_id": "E1002",
+    "name": "李娜",
+    "department": "人力资源部",
+    "title": "HRBP",
+    "email": "lina@corp.example.com",
+    "phone": "13800001002",
+    "manager": "E1005",
+    "hire_date": "2020-07-01"
+  },
+  {
+    "emp_id": "E1003",
+    "name": "王芳",
+    "department": "市场部",
+    "title": "市场专员",
+    "email": "wangfang@corp.example.com",
+    "phone": "13800001003",
+    "manager": "E1005",
+    "hire_date": "2022-11-20"
+  },
+  {
+    "emp_id": "E1004",
+    "name": "刘强",
+    "department": "技术部",
+    "title": "技术经理",
+    "email": "liuqiang@corp.example.com",
+    "phone": "13800001004",
+    "manager": "E1005",
+    "hire_date": "2019-05-10"
+  },
+  {
+    "emp_id": "E1005",
+    "name": "陈静",
+    "department": "财务部",
+    "title": "财务总监",
+    "email": "chenjing@corp.example.com",
+    "phone": "13800001005",
+    "manager": "E1005",
+    "hire_date": "2018-01-08"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "emp_id": "E1001",
+    "assets": [
+      {"type": "laptop", "model": "ThinkPad X1 Carbon", "sn": "SN-TPX1-001", "status": "in_use"},
+      {"type": "monitor", "model": "Dell U2720Q", "sn": "SN-DELL-001", "status": "in_use"},
+      {"type": "keyboard", "model": "Logitech MX Keys", "sn": "SN-LOGI-001", "status": "in_use"}
+    ]
+  },
+  {
+    "emp_id": "E1002",
+    "assets": [
+      {"type": "laptop", "model": "MacBook Air M2", "sn": "SN-MBA2-002", "status": "in_use"},
+      {"type": "monitor", "model": "Dell U2422H", "sn": "SN-DELL-002", "status": "in_use"}
+    ]
+  },
+  {
+    "emp_id": "E1003",
+    "assets": [
+      {"type": "desktop", "model": "HP EliteDesk 800", "sn": "SN-HP-003", "status": "in_use"},
+      {"type": "monitor", "model": "HP E24", "sn": "SN-HPE-003", "status": "in_use"}
+    ]
+  },
+  {
+    "emp_id": "E1004",
+    "assets": [
+      {"type": "laptop", "model": "ThinkPad P1", "sn": "SN-TPP1-004", "status": "in_use"},
+      {"type": "monitor", "model": "Dell U2720Q", "sn": "SN-DELL-004", "status": "in_use"}
+    ]
+  },
+  {
+    "emp_id": "E1005",
+    "assets": [
+      {"type": "laptop", "model": "MacBook Pro 14", "sn": "SN-MBP14-005", "status": "in_use"}
+    ]
+  }
+]

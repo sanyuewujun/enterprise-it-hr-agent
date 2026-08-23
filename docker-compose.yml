@@ -1,0 +1,14 @@
+services:
+  agent:
+    build: .
+    ports:
+      # 端口可由 PORT 环境变量整体切换（默认 8000）；同时作用于容器内监听与主机发布
+      - "${PORT:-8000}:${PORT:-8000}"
+    environment:
+      - PORT=${PORT:-8000}
+    env_file:
+      - .env
+    volumes:
+      # 持久化向量库，避免每次重启重新嵌入
+      - ./src/data/chroma:/app/src/data/chroma
+    restart: unless-stopped

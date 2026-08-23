@@ -1,0 +1,16 @@
+# 版本控制与本地数据
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+
+# 密钥（镜像内通过 env_file 注入，不打包）
+.env
+
+# 前端/后端依赖与构建中间产物
+web/node_modules
+web/dist
+src/data/chroma
