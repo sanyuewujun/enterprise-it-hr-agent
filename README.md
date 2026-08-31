@@ -5,7 +5,7 @@
 
 架构亮点：**双模型分级路由** —— 简单问题（问候 / 自我介绍）由轻量小模型秒回，
 复杂问题才交给主模型走 RAG + 工具链路，兼顾成本与延迟。
-
+项目地址：https://github.com/sanyuewujun/enterprise-it-hr-agent
 ---
 
 ## 一、架构图
